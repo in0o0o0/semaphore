@@ -1,6 +1,7 @@
 # semaphore
 入力した英数文字を腕木通信で表現したgifを作成します.
 
+SECCON 2016で出題されたSECCON TOWER([動画](https://www.youtube.com/watch?v=Y6voaURtKlM))をヒントに作りました
 
 #  Requires
 python (2.x)
